@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/https//surajsheru.github.io/pten/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/https//surajsheru.github.io/pten/static/js/main.c5d57637.chunk.js",
+    "main.js.map": "/https//surajsheru.github.io/pten/static/js/main.c5d57637.chunk.js.map",
+    "runtime-main.js": "/https//surajsheru.github.io/pten/static/js/runtime-main.251e240d.js",
+    "runtime-main.js.map": "/https//surajsheru.github.io/pten/static/js/runtime-main.251e240d.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/https//surajsheru.github.io/pten/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.ea163fad.chunk.js": "/https//surajsheru.github.io/pten/static/js/2.ea163fad.chunk.js",
+    "static/js/2.ea163fad.chunk.js.map": "/https//surajsheru.github.io/pten/static/js/2.ea163fad.chunk.js.map",
+    "index.html": "/https//surajsheru.github.io/pten/index.html",
+    "precache-manifest.cca771e58193cd3528e69139d30a6d44.js": "/https//surajsheru.github.io/pten/precache-manifest.cca771e58193cd3528e69139d30a6d44.js",
+    "service-worker.js": "/https//surajsheru.github.io/pten/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/https//surajsheru.github.io/pten/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/https//surajsheru.github.io/pten/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ea163fad.chunk.js.LICENSE.txt": "/https//surajsheru.github.io/pten/static/js/2.ea163fad.chunk.js.LICENSE.txt",
+    "static/media/T1.jpg": "/https//surajsheru.github.io/pten/static/media/T1.c2eee7e2.jpg",
+    "static/media/T3.jpg": "/https//surajsheru.github.io/pten/static/media/T3.88056c83.jpg",
+    "static/media/T4.jpg": "/https//surajsheru.github.io/pten/static/media/T4.19308b1f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251e240d.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.ea163fad.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c5d57637.chunk.js"
+  ]
+}
